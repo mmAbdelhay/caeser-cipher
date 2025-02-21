@@ -1,4 +1,4 @@
 # to run the backend just run 
-- python main.py
+-uvicorn main:app --reload
 # and for the frontend
 - streamlit run app.py
