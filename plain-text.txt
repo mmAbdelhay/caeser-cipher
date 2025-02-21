@@ -1,0 +1,4 @@
+Caesar Cipher: A Classic Encryption Technique
+
+The Caesar Cipher is one of the simplest and most well-known encryption techniques. Named after Julius Caesar, who reportedly used it to communicate securely with his officials, this cipher is a type of substitution cipher where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
+
